@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&display=swap');
+body{
+    background-color: #eaeff1;
+}
+img{
+    width: 280px;
+    height: 300px;
+    border-radius: 15px;
+    object-fit: cover;
+}
+p{
+    font-size: 14px;
+    color: #7f8c9b;
+}
+.container{
+    max-width: 300px;
+    margin: 0 auto;
+    margin-top: 8vh;
+}
+.card{
+    text-align: center;
+    background-color: #fff;
+    border: 1px solid #bacdd8;
+    padding: 8px;
+    border-radius: 12px;
+}
+.card-details{
+    padding: 8px 8px 8px 8px;
+}
+.card-name{
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Heebo', sans-serif;
+}
+.attribution {
+ font-size: 11px; 
+ text-align: center;
+ margin-top: 70px;
+}
+.attribution a {
+ color: hsl(228, 45%, 44%); 
+}
